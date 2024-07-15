@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://media.licdn.com/dms/image/D4E03AQFpOKleCxW2dw/profile-displayphoto-shrink_800_800/0/1718736096445?e=1726704000&v=beta&t=WWiTBoT8JAJUXfjfUMuwBc_6vKL5u3XqX6hD3aG3IMw" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">🖥️ I am looking for a job for the position: Junior Frontend Developer.</div>  
   
 
