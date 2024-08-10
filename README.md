@@ -4,7 +4,7 @@
 - 🌍 I am interested in jobs in the following regions: Wroclaw, Poland. I am also considering remote work.   
   
 
-- 👨‍🎓 I am finishing a course from IT Step Academi, thanks to which I have confidently mastered HTML, CSS, JavaScript, Git, as well as such libraries and frameworks as Bootstrap, Materialize, Axios, jQuery. Mastered the basics of React and its key tools, including React Router, React Hooks, and React Bootstrap, sufficient to create dynamic user interfaces. Also learnt Angular to develop scalable applications that meet modern standards.   
+- 👨‍🎓 I completed a course at IT Step Academy, during which I confidently mastered HTML, CSS, JavaScript, Git, as well as libraries and frameworks such as Bootstrap, Materialize, Axios, and jQuery. I gained a solid understanding of React and its key tools, including React Router, React Hooks, and React Bootstrap, which enables me to create dynamic user interfaces. Additionally, I learned Angular for developing scalable applications that meet modern standards.
   
 
 - ⭐  I have no work experience, but I am a quick learner, ready to put my knowledge into practice and want to become a valuable member of the team.   
