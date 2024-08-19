@@ -1,7 +1,7 @@
 ### <div align="center">🖥️ I am looking for a job for the position: Junior Frontend Developer.</div>  
   
 
-- 🌍 I am interested in jobs in the following regions: Wroclaw, Poland. I am also considering remote work.   
+- 🌍 I am interested in opportunities in the following regions: Wroclaw, Poland, and am open to remote work. Additionally, I am considering remote positions based in Ukraine.   
   
 
 - 👨‍🎓 I’m a Frontend Developer who completed a course at Step IT Academy from July 2023 to July 2024. During this time, I gained comprehensive knowledge in HTML, CSS, JavaScript, and Git, and worked extensively       with libraries and frameworks such as Bootstrap, Materialize, and Axios.
