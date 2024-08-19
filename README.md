@@ -4,16 +4,20 @@
 - 🌍 I am interested in jobs in the following regions: Wroclaw, Poland. I am also considering remote work.   
   
 
-- 👨‍🎓 I’m a Frontend Developer who completed a course at Step IT Academy from July 2023 to July 2024. During this time, I gained comprehensive knowledge in HTML, CSS, JavaScript, and Git, and worked extensively with libraries and frameworks such as Bootstrap, Materialize, and Axios.
+- 👨‍🎓 I’m a Frontend Developer who completed a course at Step IT Academy from July 2023 to July 2024. During this time, I gained comprehensive knowledge in HTML, CSS, JavaScript, and Git, and worked extensively       with libraries and frameworks such as Bootstrap, Materialize, and Axios.
 
-I have developed solid skills in working with React and its key tools, including React Router, React Hooks, and React Bootstrap, which enables me to create dynamic and responsive user interfaces. Additionally, I have learned Angular, which allows me to build scalable applications that meet modern standards. My experience with TypeScript helps in developing typed and reliable applications, and I am currently working on my first pet project using Node.js.
+     I have developed solid skills in working with React and its key tools, including React Router, React Hooks, and React Bootstrap, which enables me to create dynamic and responsive user interfaces.           
+     Additionally, I have learned Angular, which allows me to build scalable applications that meet modern standards. My experience with TypeScript helps in developing typed and reliable applications, and I am 
+     currently working on my first pet project using Node.js.
 
-I strive to create user-friendly and intuitive solutions that help users achieve their goals. My passion for new technologies and my pursuit of new challenges in web development drive me to continuously improve.
+     I strive to create user-friendly and intuitive solutions that help users achieve their goals. My passion for new technologies and my pursuit of new challenges in web development drive me to continuously 
+     improve.
 
-If you’re looking for a developer who is enthusiastic about their work and ready to take on new challenges, feel free to reach out. I’d be delighted to discuss potential collaboration or projects!
+     If you’re looking for a developer who is enthusiastic about their work and ready to take on new challenges, feel free to reach out. I’d be delighted to discuss potential collaboration or projects!
   
 
-- ⭐  While I am at the beginning of my professional journey, I am eager to apply my skills and knowledge in a real-world setting. I am a fast learner with a strong commitment to contributing effectively to a team and growing as a valuable team member.  
+- ⭐ While I am at the beginning of my professional journey, I am eager to apply my skills and knowledge in a real-world setting. I am a fast learner with a strong commitment to contributing effectively to a 
+  team and growing as a valuable team member.  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
